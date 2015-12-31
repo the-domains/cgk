@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[cgk]]></title>
         <description><![CDATA[cgk]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cgk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Dec 2015 19:02:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 31 Dec 2015 19:37:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cgk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No one cares how hard you worked]]></title>
             <description><![CDATA[<article><h1>No one cares how hard you worked</h1><p>"When I showed this photograph to Bob Nadler, of Camera 35 fame, the better part of 30 years ago, I started telling him everything I gone through to make that wonderful print. He cut me short, saying "Nobody cares how hard you worked."  </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f431b6e8e0ceeb072dc11693cd7a625b5eb605e5.jpg"></article>]]></description>
-            <link>undefinedno-one-cares-how-hard-you-worked/index.html</link>
+            <link>https://thegrid.ai/cgk/no-one-cares-how-hard-you-worked/index.html</link>
             <guid isPermaLink="false">5d09e45a-63c6-4bc6-9d4d-be19a8a9cf5d</guid>
-            <pubDate>Thu, 31 Dec 2015 19:02:25 GMT</pubDate>
+            <pubDate>Thu, 31 Dec 2015 19:37:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Difficult Lesson]]></title>
+            <description><![CDATA[<article><h1>The Difficult Lesson</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5f8cdf36b58976c7b3bbc1c12a9de0c797563a8b.png"></article>]]></description>
+            <link>https://thegrid.ai/cgk/c7b77f29-0727-4017-84c2-641c00876f21/index.html</link>
+            <guid isPermaLink="false">c7b77f29-0727-4017-84c2-641c00876f21</guid>
+            <pubDate>Thu, 31 Dec 2015 19:16:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
